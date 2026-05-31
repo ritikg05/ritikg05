@@ -100,7 +100,7 @@ Node.js + Express.js + MongoDB Backend
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ritikg05&show_icons=true&theme=tokyonight" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=ritikg05&show_icons=true&theme=tokyonight" /> -->
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikg05&theme=tokyonight" />
 
@@ -108,13 +108,13 @@ Node.js + Express.js + MongoDB Backend
 
 ---
 
-## 💻 Most Used Languages
+<!-- ## 💻 Most Used Languages
 
-<div align="center">
+ <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikg05&layout=compact&theme=tokyonight" />
 
-</div>
+</div> -->
 
 ---
 
@@ -155,9 +155,5 @@ Node.js + Express.js + MongoDB Backend
 ---
 
 <div align="center">
-
-### 🚀 Building AI Products That Solve Real Problems
-
-⭐ From Data Science to Generative AI ⭐
 
 </div>
